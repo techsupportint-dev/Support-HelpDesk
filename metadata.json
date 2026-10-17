@@ -1,0 +1,8 @@
+{
+  "name": "Credlock Africa Tech Support Portal",
+  "description": "Operations portal for Credlock Africa technical support team, managing tickets, Kavro device issues, coverage rota, officer analytics, and reports.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
